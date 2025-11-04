@@ -3,24 +3,24 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 B.Tech student at **Institute of Engineering and Management (IEM)**  
-- 💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** 
-- ⚙️ Experienced in building ML models and working with **real-world data-driven systems**  
-- 🌱 Currently learning **Large Language Models (LLMs)** and **Advanced Deep Learning Architectures**
+### 🧠 About Me 
+- 💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**  
+- 🐍 **Python** is my most-used and favorite language for solving real-world problems  
+- ⚙️ Experienced in building ML models and working with **data-driven intelligent systems**  
+- 🌱 Currently exploring **Large Language Models (LLMs)** and **Advanced Deep Learning Architectures**
 
 ---
 
 ### 🧩 Tech I Work With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
